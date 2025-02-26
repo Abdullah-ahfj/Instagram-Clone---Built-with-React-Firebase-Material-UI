@@ -1,6 +1,21 @@
-# Getting Started with Create React App
+Instagram Clone - Built with React, Firebase & Material-UI 🎉
+This project is a full-stack Instagram Clone built using React, Firebase, and Material-UI. It demonstrates how simple it is to create a social media platform with modern web technologies.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+🔹 Features Covered in This Project:
+✅ User Authentication – Firebase Authentication for secure login & signup 🔑
+✅ Image Uploading – Store and retrieve images using Firebase Storage 📸
+✅ Real-time Database – Firestore enables live updates for posts and comments 🔥
+✅ Modern UI Design – Styled with Material-UI for a sleek and responsive interface 🎨
+✅ Hosting & Deployment – Easily deployed using Firebase Hosting 🌐
+
+🚀 Tech Stack Used:
+🔹 React.js – Frontend framework for building the UI
+🔹 Firebase Firestore – Real-time NoSQL database
+🔹 Firebase Authentication – Secure user authentication
+🔹 Firebase Storage – Handles image uploads
+🔹 Material-UI – Provides a modern and responsive UI
+
+# Getting Started with Create React App
 
 ## Available Scripts
 
